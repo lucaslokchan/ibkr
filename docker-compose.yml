@@ -1,0 +1,9 @@
+version: "3"
+services:
+  ibkr:
+    container_name: 'ibkr'
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "5000:5000"
