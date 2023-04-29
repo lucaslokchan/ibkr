@@ -1,0 +1,707 @@
+-> GET /v1/api/portfolio/accounts
+<- 401 GET /v1/api/portfolio/accounts
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.css
+-> GET /css/reg-am/theme-ibkr.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/switchery/switchery.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /css/reg-am/login.css
+<- 200 GET /css/reg-am/theme-ibkr.css
+-> GET /css/icheck-1.0.2/icheck.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/icheck-1.0.2/icheck.css
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+-> GET /sso/CombineFiles
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 200 GET /scripts/common/js/switchery/switchery-init.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /en/includes/general/gdpr-am.php
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?315
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?315
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?63416
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?63416
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?84869
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?84869
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?26380
+-> GET /sso/images/2fa-animated-once.gif?q=0.1366931618638354
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.1366931618638354
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?26380
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?84966
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?84966
+-> POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?37623
+<- 200 POST /sso/Authenticator;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet?37623
+-> POST /sso/Dispatcher;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet
+<- 302 POST /sso/Dispatcher;jsessionid=5B2EE77F75CCE7C19937BB3503EAF494.ny5wwwdam2-internet
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|333ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=1e691e23|BC-D0-74-35-0D-A4
+-> sso GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=1e691e23|BC-D0-74-35-0D-A4
+<- 200 GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=1e691e23|BC-D0-74-35-0D-A4 0
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|43ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|81ms
+-> request: /v1/api/iserver/auth/ssodh/response
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|1030ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|111ms
+-> GET /v1/api/one/user,503|10119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|99ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|105ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|187ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|106ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /css/switchery/switchery.min.css
+-> GET /css/icheck-1.0.2/icheck.css
+-> GET /css/reg-am/login.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/icheck-1.0.2/icheck.css
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /css/reg-am/theme-ibkr.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /css/reg-am/login.css
+<- 200 GET /css/reg-am/theme-ibkr.css
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /scripts/common/js/switchery/switchery.min.js
+<- 200 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /sso/CombineFiles
+<- 200 GET /scripts/common/js/switchery/switchery.min.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/switchery/switchery-init.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /en/includes/general/gdpr-am.php
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+-> POST /sso/Authenticator?93178
+<- 200 POST /sso/Authenticator?93178
+-> POST /sso/Authenticator?99245
+<- 200 POST /sso/Authenticator?99245
+-> POST /sso/Authenticator?81654
+<- 200 POST /sso/Authenticator?81654
+-> POST /sso/Authenticator?34117
+-> GET /sso/images/2fa-animated-once.gif?q=0.14904594851792763
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.14904594851792763
+<- 200 POST /sso/Authenticator?34117
+-> POST /sso/Authenticator?56645
+-> request: /v1/api/tickle
+<- 200 POST /sso/Authenticator?56645
+-> GET /v1/api/tickle,200|217ms
+-> POST /sso/Authenticator?71199
+<- 200 POST /sso/Authenticator?71199
+-> POST /sso/Authenticator?23798
+<- 200 POST /sso/Authenticator?23798
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> POST /sso/Authenticator?88300
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/reg-am/login.css
+-> GET /css/reg-am/theme-ibkr.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/switchery/switchery.min.css
+-> GET /css/icheck-1.0.2/icheck.css
+<- 200 POST /sso/Authenticator?88300
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /css/reg-am/login.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /css/reg-am/theme-ibkr.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 304 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /css/icheck-1.0.2/icheck.css
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 304 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 304 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 304 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 304 GET /scripts/common/js/switchery/switchery-init.js
+<- 304 GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+-> GET /sso/CombineFiles
+<- 304 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 304 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /en/includes/general/gdpr-am.php
+-> POST /sso/Authenticator?39146
+<- 200 POST /sso/Authenticator?39146
+-> POST /sso/Authenticator?13733
+<- 200 POST /sso/Authenticator?13733
+-> POST /sso/Authenticator?15137
+<- 200 POST /sso/Authenticator?15137
+-> request: /v1/api/tickle
+-> POST /sso/Authenticator?98288
+-> GET /sso/images/2fa-animated-once.gif?q=0.44970517929922527
+-> GET /v1/api/tickle,200|98ms
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.44970517929922527
+<- 200 POST /sso/Authenticator?98288
+-> POST /sso/Authenticator?12470
+<- 200 POST /sso/Authenticator?12470
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|402ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|240ms
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|122ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|78ms
+-> request: /v1/api/iserver/auth/ssodh/response
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|138ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|77ms
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|103ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|523ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|275ms
+-> GET /v1/api/accounts
+<- 404 GET /v1/api/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|100ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|147ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|107ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|100ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|95ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/reg-am/login.css
+-> GET /css/reg-am/theme-ibkr.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/switchery/switchery.min.css
+<- 200 GET /css/reg-am/login.css
+<- 200 GET /css/reg-am/theme-ibkr.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/icheck-1.0.2/icheck.css
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/icheck-1.0.2/icheck.css
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/switchery/switchery.min.js
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /sso/CombineFiles
+<- 200 GET /scripts/common/js/switchery/switchery.min.js
+<- 200 GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+-> request: /sso/ping
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /en/includes/general/gdpr-am.php
+-> GET /sso/ping,200|283ms
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|142ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /css/switchery/switchery.min.css
+-> GET /css/icheck-1.0.2/icheck.css
+-> GET /css/reg-am/login.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /css/reg-am/theme-ibkr.css
+<- 200 GET /css/icheck-1.0.2/icheck.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /css/reg-am/theme-ibkr.css
+<- 200 GET /css/reg-am/login.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /sso/CombineFiles
+<- 200 GET /scripts/common/js/switchery/switchery.min.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 200 GET /scripts/common/js/switchery/switchery-init.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /en/includes/general/gdpr-am.php
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+-> POST /sso/Authenticator?11831
+<- 200 POST /sso/Authenticator?11831
+-> POST /sso/Authenticator?38642
+<- 200 POST /sso/Authenticator?38642
+-> POST /sso/Authenticator?91430
+<- 200 POST /sso/Authenticator?91430
+-> POST /sso/Authenticator?17502
+<- 200 POST /sso/Authenticator?17502
+-> POST /sso/Authenticator?49007
+<- 200 POST /sso/Authenticator?49007
+-> POST /sso/Authenticator?75727
+-> GET /sso/images/2fa-animated-once.gif?q=0.2525682528866102
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.2525682528866102
+<- 200 POST /sso/Authenticator?75727
+-> POST /sso/Authenticator?98507
+<- 200 POST /sso/Authenticator?98507
+-> POST /sso/Authenticator?32266
+<- 200 POST /sso/Authenticator?32266
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|407ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|449ms
+-> POST /sso/Authenticator?75518
+-> request: /v1/api/sso/validate?gw=1
+<- 200 POST /sso/Authenticator?75518
+-> GET /v1/api/sso/validate?gw=1,401|281ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|365ms
+-> POST /sso/Authenticator?91873
+<- 200 POST /sso/Authenticator?91873
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|376ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|477ms
+-> POST /sso/Authenticator?30567
+<- 200 POST /sso/Authenticator?30567
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /css/switchery/switchery.min.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/reg-am/login.css
+<- 304 GET /css/switchery/switchery.min.css
+<- 304 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/theme-ibkr.css
+-> GET /css/icheck-1.0.2/icheck.css
+<- 304 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 304 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 304 GET /css/reg-am/login.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+<- 304 GET /css/reg-am/theme-ibkr.css
+-> GET /scripts/common/js/switchery/switchery.min.js
+<- 304 GET /css/icheck-1.0.2/icheck.css
+<- 304 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 304 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+<- 304 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+<- 304 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+-> GET /sso/CombineFiles
+<- 304 GET /scripts/common/js/switchery/switchery-init.js
+<- 304 GET /scripts/common/js/switchery/switchery.min.js
+<- 304 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 304 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /en/includes/general/gdpr-am.php
+-> POST /sso/Authenticator?77909
+<- 200 POST /sso/Authenticator?77909
+-> POST /sso/Authenticator?24152
+<- 200 POST /sso/Authenticator?24152
+-> POST /sso/Authenticator?80888
+<- 200 POST /sso/Authenticator?80888
+-> POST /sso/Authenticator?55628
+-> GET /sso/images/2fa-animated-once.gif?q=0.8409160550223911
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.8409160550223911
+<- 200 POST /sso/Authenticator?55628
+-> POST /sso/Authenticator?37518
+<- 200 POST /sso/Authenticator?37518
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|310ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|71ms
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|113ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|68ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|101ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|102ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|101ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> GET /v1/api/fyi/unreadnumber
+<- 200 GET /v1/api/fyi/unreadnumber
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|101ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|112ms
+-> GET /v1/api/ws
+<- 500 GET /v1/api/ws
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /sso/ping
+-> GET /sso/ping,200|708ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|124ms
+-> GET /v1/api/tickle
+<- 200 GET /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|108ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|107ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|108ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|128ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|110ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /sso/ping
+-> GET /sso/ping,200|681ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|346ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|396ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|349ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|403ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|478ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|1769ms
+-> GET /v1/api/md/snapshot
+<- 401 GET /v1/api/md/snapshot
+-> GET /v1/api/md/snapshot
+<- 401 GET /v1/api/md/snapshot
+-> GET /v1/api/tickle
+<- 401 GET /v1/api/tickle
+-> GET /v1/api/sso/validate
+<- 401 GET /v1/api/sso/validate
+-> request: /sso/ping
+-> GET /sso/ping,200|630ms
+-> GET /v1/api/sso/validate
+<- 401 GET /v1/api/sso/validate
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/reg-am/login.css
+-> GET /css/reg-am/theme-ibkr.css
+-> GET /sso/Templates/otp-responsive.ltr.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/switchery/switchery.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/reg-am/login.css
+-> GET /css/icheck-1.0.2/icheck.css
+<- 200 GET /css/reg-am/theme-ibkr.css
+<- 200 GET /sso/Templates/otp-responsive.ltr.css
+-> GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+<- 200 GET /css/switchery/switchery.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/icheck-1.0.2/icheck.css
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+<- 200 GET /scripts/common/js/jquery-3.4.1/jquery.min.js
+-> GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /scripts/common/js/switchery/switchery.min.js
+-> GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1/jquery-ui.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/bootstrap-switch-3.3.2/bootstrap-switch.min.js
+-> GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/switchery/switchery.min.js
+-> GET /sso/CombineFiles
+<- 200 GET /scripts/common/js/switchery/switchery-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck-init.js
+<- 200 GET /scripts/common/js/icheck-1.0.2/icheck.min.js
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /en/includes/general/gdpr-am.php
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-solid-900.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /en/includes/general/gdpr-am.php
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+-> GET /v1/api/portfolio/accounts
+<- 401 GET /v1/api/portfolio/accounts
+-> POST /sso/Authenticator?48398
+<- 200 POST /sso/Authenticator?48398
+-> POST /sso/Authenticator?11341
+<- 200 POST /sso/Authenticator?11341
+-> POST /sso/Authenticator?31622
+<- 200 POST /sso/Authenticator?31622
+-> POST /sso/Authenticator?96686
+-> GET /sso/images/2fa-animated-once.gif?q=0.0022689464675011983
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.0022689464675011983
+<- 200 POST /sso/Authenticator?96686
+-> POST /sso/Authenticator?17740
+<- 200 POST /sso/Authenticator?17740
+-> POST /sso/Authenticator?50981
+<- 200 POST /sso/Authenticator?50981
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|395ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|84ms
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|114ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|73ms
+-> GET /v1/api/hmds/history
+<- 400 GET /v1/api/hmds/history
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|148ms
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|150ms
+-> GET /v1/api/iserver/account/trades
+<- 200 GET /v1/api/iserver/account/trades
+-> GET /v1/api/iserver/account/orders
+<- 200 GET /v1/api/iserver/account/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|160ms
+-> GET /v1/api/pa/performance
+<- 400 GET /v1/api/pa/performance
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|157ms
